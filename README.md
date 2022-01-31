@@ -1,26 +1,17 @@
 # ClimateWeatherApp
 # :sunny: Weather & Climate App :cloud:
 
-![alt text](./image/Weather-App-1.png)
 ## A Propos
-Application de prévisions météo utilisant Java pour Android.
-Ce projet porte sur la création d'une application météo Android à l'aide de Java. Pour obtenir les informations météorologiques, nous avons utilisé l'API OpenWeatherMap. Des informations telles que la température, la pression, l'humidité, l'état météorologique, l'heure du lever et du coucher du soleil, etc. sont transmises à partir de l'API.
-
-Vous devez d'abord vous connecter à l'application. Il existe également des options telles que le mot de passe oublié. Ensuite, vous pouvez connaître les conditions météorologiques de la ville que vous souhaitez dans votre compte personnel, consulter et modifier vos informations personnelles.
-
-<img src="https://raw.github.com/tomkp/weather-icons/master/png/sunny%20intervals.png" data-canonical-src="https://raw.github.com/tomkp/weather-icons/master/png/sunny%20intervals.png" width="240" height="250" />  <img src="https://raw.github.com/tomkp/weather-icons/master/png/sunny.png" data-canonical-src="https://raw.github.com/tomkp/weather-icons/master/png/sunny.png" width="240" height="250" />  <img src="https://raw.github.com/tomkp/weather-icons/master/png/heavy%20rain.png" data-canonical-src="https://raw.github.com/tomkp/weather-icons/master/png/heavy%20rain.png" width="240" height="250" /> 
-
-
-
+Application Android pour la prévision météo.  (Min SDK 24)
+Ce projet porte sur la création d'une application android de météo sur Android Studio avec le langauge JAVA. Pour obtenir les informations météorologiques, nous avons utilisél'API OpenWeatherMap pour notre application. Des informations telles que la température, la pression, l'humidité, l'état météorologique, l'heure du lever et du coucher du soleil, etc. sont transmises à partir de l'API.
+Pour utiliser l’application vous devez créer une compte avec votre mail, une fois connecté vous aurez accès aux informations météorologiques de votre ville , vous aurez aussi la possibilité de consulter la météo d’autres villes.  
 
 ## Exigences
-
-* Android studio last version
-* JDK 11
+* Android studio Dernière version 3.4 Canary 
+* JDK 24
 * Android SDK 31
-* Supports API Level +21
-* Material Components 1.5.0-alpha04
-* Vous devez configurer Firebase dans votre propre compte
+* Supports API Level +24
+* FireBase a configuré vous-meme.
 * Taille de la machine virtuelle : 1440 x 3040 ou 1080 x 2160
 
 	
