@@ -1,5 +1,5 @@
 # ClimateWeatherApp
-# :sunny: TooBo - Weather App :cloud:
+# :sunny: Weather & Climate App :cloud:
 
 ![alt text](./image/Weather-App-1.png)
 ## A Propos
@@ -28,17 +28,18 @@ Vous devez d'abord vous connecter à l'application. Il existe également des opt
 
 Voici les API/services externes utilisés pour cette application :
 * OpenWeatherMap `(https://openweathermap.org/current)` La principale API utilisée pour les données météorologiques.
-Plus précisément, nous utilisons la fonction Données météorologiques actuelles. 
+* OpenWeatherMap `(https://openweathermap.org/api/one-call-api) Pour les données des prochains jours 
 * Un service de session privée est fourni aux utilisateurs. `( https://firebase.google.com/ )`
-* Picasso - `( https://square.github.io/picasso/ )` Utilisé pour charger des images dans l'application de manière simple.
+* Figma: Design et architecture de l'application.
 
 ## Licence
 
-Copyright (c) 2020 Hacer AKTURK, Kenza BENDOU, Furkan KARA
+Copyright (c) 2022 Hamza BOUMRAR 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+L'autorisation est accordée, gratuitement, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le "Logiciel"), de traiter le Logiciel sans restriction, y compris, sans limitation, les droits d'utilisation, de copie, de modification, de fusion , publier, distribuer, sous-licencier et/ou vendre des copies du Logiciel, et permettre aux personnes à qui le Logiciel est fourni de le faire, sous réserve des conditions suivantes :
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+L'avis de droit d'auteur ci-dessus et cet avis d'autorisation doivent être inclus dans toutes les copies ou parties substantielles du Logiciel.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+LE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON. EN AUCUN CAS LES AUTEURS OU LES TITULAIRES DU COPYRIGHT NE SERONT RESPONSABLES DE TOUT
+RÉCLAMATION, DOMMAGES OU AUTRE RESPONSABILITÉ, QUE CE SOIT DANS UNE ACTION CONTRACTUELLE, DÉLICTUELLE OU AUTRE, DÉCOULANT DE, DE OU EN RELATION AVEC LE LOGICIEL OU L'UTILISATION OU D'AUTRES TRANSACTIONS DANS LE LOGICIEL.
+
