@@ -3,7 +3,7 @@
 
 ## A Propos
 Application Android pour la prévision météo.  (Min SDK 24)
-Ce projet porte sur la création d'une application android de météo sur Android Studio avec le langauge JAVA. Pour obtenir les informations météorologiques, nous avons utilisél'API OpenWeatherMap pour notre application. Des informations telles que la température, la pression, l'humidité, l'état météorologique, l'heure du lever et du coucher du soleil, etc. sont transmises à partir de l'API.
+Ce projet porte sur la création d'une application android de météo sur Android Studio avec le langauge JAVA. Pour obtenir les informations météorologiques, nous avons utilisé l'API OpenWeatherMap pour notre application. Des informations telles que la température, la pression, l'humidité, l'état météorologique, l'heure du lever et du coucher du soleil, etc. sont transmises à partir de l'API.
 Pour utiliser l’application vous devez créer une compte avec votre mail, une fois connecté vous aurez accès aux informations météorologiques de votre ville , vous aurez aussi la possibilité de consulter la météo d’autres villes.  
 
 ## Exigences
